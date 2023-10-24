@@ -41,9 +41,13 @@ TBD
 **See the [Central Molecular Zone Data Sets repository](https://github.com/CentralMolecularZone/DataSets#spectral-surveys) for a fuller list of available CMZ datasets**
 
 [GLIMPSE Spitzer 8$\mu$m]([https://www.google.com/?client=safari](https://irsa.ipac.caltech.edu/data/SPITZER/GLIMPSE/overview.html))
+
 [Herschel HiGAL]([https://www.google.com/?client=safari](https://github.com/CentralMolecularZone/DataSets#continuum-surveys))
+
 [APEX CMZ survey]([https://www.google.com/?client=safari](https://github.com/CentralMolecularZone/DataSets#whole-cmz))
+
 [MOPRA CMZ survey]([https://www.google.com/?client=safari](https://github.com/CentralMolecularZone/DataSets#spectral-surveys))
+
 
 
 ## World Wide Telescope Tour 
