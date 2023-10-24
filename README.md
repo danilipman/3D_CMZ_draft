@@ -17,13 +17,21 @@ properties with those of regions within the Milky Way disk as well as distant ga
 
 ## Data Products
 [Integrated column density map from Paper I](https://www.google.com/?client=safari)
+
 [dust temperature map from Paper I](https://www.google.com/?client=safari)
+
 [dendrogram catalog from Paper II](https://www.google.com/?client=safari)
+
 [dendrogram catalog from Paper III](https://www.google.com/?client=safari)
+
 [Cloud masks from Paper III](https://www.google.com/?client=safari)
+
 [Calculated 70$\mu$m dust extinction column density map from Paper IV](https://www.google.com/?client=safari)
+
 [Flux Ratio map from Paper IV](https://www.google.com/?client=safari)
+
 [Flux Difference map from Paper IV](https://www.google.com/?client=safari)
+
 
 ## Relevant Code
 TBD
