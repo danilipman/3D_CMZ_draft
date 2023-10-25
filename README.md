@@ -1,4 +1,4 @@
-![3color](./assets/images/3color_cmz_nocoverage_higal_paper_70micron_nolabels.pdf)
+![3color](./docs/assets/images/3color_cmz_nocoverage_higal_paper_70micron_nolabels.pdf)
 
 Welcome to the webpage of the 3-D CMZ project. This site is intended as a collective resource for relevant papers, data products, and code associated with the project.
 
