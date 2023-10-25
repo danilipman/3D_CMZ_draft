@@ -1,4 +1,3 @@
-![3color image of the CMZ](./docs/assets/3color.png)
 <object data="3color.png" width="1000" height="1000"></object>
 
 Welcome to the webpage of the 3-D CMZ project. This site is intended as a collective resource for relevant papers, data products, and code associated with the project.
